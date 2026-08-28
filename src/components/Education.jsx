@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { GraduationCap, Award } from "lucide-react";
-import education from "../data/education";
+import education from "../data/Education";
 
 function Education() {
   return (
